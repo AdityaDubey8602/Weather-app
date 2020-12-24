@@ -1,0 +1,11 @@
+h1{
+    color: blue;
+}
+
+.custom {
+    background-image: url("weather4.jpg"); 
+    background-size: 2250px 2000px ;
+    background-repeat: no-repeat;
+
+}
+
